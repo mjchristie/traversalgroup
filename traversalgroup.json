@@ -1,0 +1,8 @@
+{
+    "db": "traversalgroup.db",
+    "min_n": 3,
+    "max_n": 7,
+    "min_trials": 10000,
+    "certainty": 0.95,
+    "secs": 300
+}

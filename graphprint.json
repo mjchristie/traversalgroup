@@ -1,0 +1,10 @@
+{
+	"directory":   "print",
+	"algorithm":   "bfs",
+	"file_type":   "png",
+	"num_imgs":     10,
+	"num_nodes":    35,
+	"cell_length":  10,
+	"start_color": [49, 185, 174],
+	"act_color":   [121, 82, 169]
+}
